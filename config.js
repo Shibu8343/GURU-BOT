@@ -6,12 +6,12 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+global.owner = [Shibu
+  ['916297181312', 'shibu', true],
+  
   [''] 
 ] //Number of owners
-
+hacked shibu
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
